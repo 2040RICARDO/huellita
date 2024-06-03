@@ -1,0 +1,11 @@
+.overflow-x-hidden {
+  overflow-x: hidden;
+}
+
+.overflow-y-auto {
+  overflow-y: hidden;
+}
+
+.overflow-y-auto:hover {
+  overflow-y: auto;
+}
